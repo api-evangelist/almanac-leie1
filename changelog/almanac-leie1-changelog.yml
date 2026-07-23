@@ -1,0 +1,26 @@
+generated: '2026-07-18'
+method: searched
+source: https://get.almanac.io/changelog/introducing-the-almanac-api
+scheme: dated-entries
+current_version: v1
+status: private-beta
+notes: >-
+  Almanac publishes a product changelog on its marketing site. The Almanac API was announced as a
+  V1 private beta. No public dated changelog index was reachable at capture time; this records the
+  API launch entry verbatim from the linked changelog post. Full changelog host (help.almanac.io /
+  api.almanac.io) returned 503 to non-browser clients at capture time.
+entries:
+- version: v1
+  date: '2023-05-19'
+  title: Introducing the Almanac API
+  type: announcement
+  breaking: false
+  status: private-beta
+  highlights:
+  - Import files
+  - Move files and folders
+  - View the users and groups in your workspace
+  - View and update properties for your documents
+  - View and update who has access to given documents
+  - Access and update metadata for your documents and folders
+  source: https://get.almanac.io/changelog/introducing-the-almanac-api
