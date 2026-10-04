@@ -51,7 +51,7 @@ tags:
 - Wiki
 - Workflows
 - Productivity
-- Knowledge-Management
+- Knowledge Management
 tags_raw:
 - Company
 - Collaboration
@@ -60,6 +60,7 @@ tags_raw:
 - Workflow
 - Productivity
 - Knowledge Management
+- Knowledge-Management
 apis:
 - name: Almanac API
   description: >-
